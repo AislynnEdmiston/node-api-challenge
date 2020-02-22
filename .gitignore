@@ -4,6 +4,9 @@
 # VSCode settings
 .vscode/
 
+#dotenv
+.env
+
 # Logs
 logs
 *.log
